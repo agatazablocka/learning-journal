@@ -3,7 +3,7 @@ We use it to formatting words, creating different kind of lists, heading, adding
 
 examples of basic formatting syntax:
 
-** for italic
+```**``` for italic
 
 ** ** for bold
 
