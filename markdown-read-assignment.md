@@ -11,7 +11,8 @@ examples of basic formatting syntax:
 
 numbers (1., 2., 3. ... in each line) for order lists
 
-```>``` for  > quotes
+```>``` for  
+> quotes
 
 # for heading
 
