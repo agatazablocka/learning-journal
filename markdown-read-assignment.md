@@ -7,7 +7,7 @@ examples of basic formatting syntax:
 
 ** ** for **bold**
 
-- or * for unordered lists
+```- or * ``` for unordered lists
 
 numbers (1., 2., 3. ... in each line) for order lists
 
