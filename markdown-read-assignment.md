@@ -14,7 +14,8 @@ numbers (1., 2., 3. ... in each line) for order lists
 ```>``` for  
 > quotes
 
-# for heading
+```#``` for
+# heading
 
 URL in ( ) for images
 
