@@ -5,7 +5,7 @@ examples of basic formatting syntax:
 
 ** for *italic*
 
-** ** for bold
+** ** for **bold**
 
 - or * for unordered lists
 
