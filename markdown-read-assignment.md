@@ -3,15 +3,15 @@ We use it to formatting words, creating different kind of lists, heading, adding
 
 examples of basic formatting syntax:
 
-** for *italic*
+```**``` for *italic*
 
-** ** for **bold**
+```** **``` for **bold**
 
 ```- or * ``` for unordered lists
 
 numbers (1., 2., 3. ... in each line) for order lists
 
-> for quotes
+```>``` for  > quotes
 
 # for heading
 
