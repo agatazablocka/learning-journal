@@ -3,7 +3,7 @@ We use it to formatting words, creating different kind of lists, heading, adding
 
 examples of basic formatting syntax:
 
-*for italic*
+* * for italic
 
 ** for bold ** 
 
@@ -17,6 +17,6 @@ numbers (1., 2., 3. ... in each line) for order lists
 
 URL in ( ) for images
 
-GitHub is a platform to store and share repositories
+2. GitHub is a platform to store and share repositories
 
-Github pages are public webpages published from repositories on GitHub
+3. Github pages are public webpages published from repositories on GitHub
