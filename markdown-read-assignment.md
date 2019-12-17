@@ -17,7 +17,7 @@ numbers (1., 2., 3. ... in each line) for order lists
 ```#``` for
 # heading
 
-URL in ( ) for images
+URL in ```( )``` for images
 
 2. GitHub is a platform to store and share repositories
 
