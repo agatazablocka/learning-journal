@@ -8,7 +8,7 @@ I like to use *italic*
 But I also like __bold__
 
 He said
-> You're retarded
+> You're late
 
 Counting
 1. one
