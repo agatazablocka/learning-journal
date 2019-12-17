@@ -4,6 +4,7 @@ what you need for ***bolognese***
 - onions
 
 I like to use *italic*
+
 But I also like __bold__
 
 He said
