@@ -1,10 +1,10 @@
-what you need for *** bolognese ***
+what you need for ***bolognese***
 - tomato
 - beef
 - onions
 
-I like to use * italic *
-But I also like _ bold _
+I like to use *italic*
+But I also like _bold_
 
 He said
 > You're retarded
