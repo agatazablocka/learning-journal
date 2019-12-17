@@ -1,4 +1,4 @@
-Markdown is a language to style plain-text.
+1. Markdown is a language to style plain-text.
 We use it to formatting words, creating different kind of lists, heading, adding images or emojis, creating and adding active links and many other forms of styling the text
 
 examples of basic formatting syntax:
