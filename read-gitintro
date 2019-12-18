@@ -8,7 +8,7 @@ The system keeps all versions of a file available for all users.
 DVSC- Distrubuted Version Control System
 It's a kind of a security system that allows to create mirrored repositories keeping them safe in case of a potential loss.
 
-GIT is a DVCS !
+GIT is a DVCS
 It creates snapshots of files and stores references to it.
 GIT tracks every change in files
 Files are stored as :
@@ -18,4 +18,8 @@ Files are stored as :
 
 GUI can be used in GIT.
 
-A GIT repository can be imported and cloned
+A GIT repository can be imported and cloned to machines.
+
+GIT add filnames.ext
+
+Workflow is the process of managing changes in a project (pull, commit, push)
