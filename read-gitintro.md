@@ -1,3 +1,5 @@
+# git notes
+
 VERSION CONTROL, specific to GIT, is a very helpful feature. This system allows you to go back, check out and make changes in all versions of a file. 
 Thanks to this you can revert files to old versions and fix mistakes using VCC (Version Control System)
 
